@@ -29,7 +29,7 @@ paginate: 20
 
 #### Site
 title : Alex
-tagline: Welcome To Here
+tagline: Welcome To My Blog
 assets: /assets
 url:
 baseurl:
@@ -85,8 +85,8 @@ share_to: true #enable share-to buttons if true
 #### Author information
 author:
   name: Alex      ## e.g. wuchong Author name
-  intro_line1:  "金鳞岂是池中物"    ## your introduction on the bottom of the page
-  intro_line2:  "一遇风雨遍化龙"  ## the 2nd line
+  intro_line1:  "All endings are beginnings,"    ## your introduction on the bottom of the page
+  intro_line2:  "we just don't know it at the time."  ## the 2nd line
   weibo:      ## e.g. wuchong1014 or 2176287895 for http://weibo.com/2176287895
   weibo_verifier:  ## e.g. b3593ceb Your weibo-show widget verifier ,if you use weibo-show it is needed.
   tsina:      ## e.g. 2176287895  Your weibo ID,It will be used in share button.
