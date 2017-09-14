@@ -7,9 +7,7 @@ tags:
 categories: 
 description: 
 ---
-
 ### ssh隧道
-
 ssh通常用于加密的远程登陆,其他ssh功能非常强大,其中一个就是端口转发,也叫 隧道 `tunnel` , 能封装一些没有加密功能的tcp协议 telnet ,smtp 等  让这些不安全的协议的数据包由ssh 加密后安全传输, 而且能通过跳板机穿透防火墙的限制等.
 
 <!-- more -->
